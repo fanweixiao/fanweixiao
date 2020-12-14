@@ -2,8 +2,9 @@
 
 <h3> 🏴‍☠️ About Me  🏴‍☠️ </h3>
 
-- 🔭 &nbsp; *Uber the computing* by [YoMo](https://github.com/yomorun/yomo)
-- 🎓 &nbsp; Forcus on Edge Computing with low-latency
-- 🌱 &nbsp; Maintaining [QUIC Weekly](https://github.com/10cella/awesome-quic#quic-weekly)
+- 🔭 I’m currently *Uber the computing* by [YoMo](https://github.com/yomorun).
+- 🦄 I’m currently working for [CELLA](https://github.com/10cella).
+- 🎓 Forcus on Edge Computing with low-latency
+- 🌱 Maintaining [QUIC Weekly](https://github.com/10cella/awesome-quic#quic-weekly)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanweixiao&layout=compact)](https://github.com/fanweixiao/)
