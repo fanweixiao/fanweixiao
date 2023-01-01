@@ -1,6 +1,6 @@
 <h2> Hey there! I'm C.C</h2>
 
-🧛🏻‍ Working on low latency stream computing
+🧛🏻‍ Working on low latency streaming serverless and geo-distributed system.
 
 ### 🌎 What I care about: The Demand For Real-Time Digital User Experiences
 
