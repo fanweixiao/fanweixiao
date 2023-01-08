@@ -10,7 +10,7 @@ If an application can be deployed anywhere close to their end users, solve the p
 
 <img width="580" alt="yomo geo-distributed system" src="https://user-images.githubusercontent.com/65603/162367572-5a0417fa-e2b2-4d35-8c92-2c95d461706d.png">
 
-So, I started [YoMo](https://github.com/yomorun/yomo) project, build a framework, reduce the complexity when developer building geo-distributed system.
+So, I created [YoMo](https://github.com/yomorun/yomo) open source project, build a framework, reduce the complexity when developer building geo-distributed system.
 
 ### 🥷 About Me
 
