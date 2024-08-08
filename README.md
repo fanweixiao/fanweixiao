@@ -18,7 +18,7 @@ So, I created [YoMo](https://github.com/yomorun/yomo) open source project, build
 - Love Open-source and community, [@hashids](https://github.com/hashids), [@weapp-socketio](https://github.com/weapp-socketio), etc ...
 - Keyboard Enthusiast, currently I am using two [HHKB](https://hhkeyboard.us/hhkb/pro-hybrid-type-s/sku/cg01000-297301) at office and home, one [Keychron Q1 QMK](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-japan-jis-layout) in my BJ office.
 - Interest in investing tech company in early stage, I've invested to [Sensetime(00020.HK)](https://github.com/Sense-X), [QAX(688561.SH)](https://github.com/QAX-A-Team), [@AfterShip](https://github.com/aftership) and [@MegaEase](https://github.com/megaease) etc ...
-- *Frisbee* 🥏 and *RockClimbing* 🧗🏻 Hobbyist
+- *Snooker* 🎱 *Frisbee* 🥏 and *RockClimbing* 🧗🏻 Hobbyist
 
 ### 🎏 Find me
 
