@@ -2,7 +2,7 @@
 
 🧛🏻‍ Working on low latency streaming serverless and geo-distributed system.
 
-### 🌎 What I care about: The Demand For Real-Time Digital User Experiences
+### 🌎 What I care about: Geo-distributed electrical power for GPU
 
 It’s no secret that today’s users want instant gratification, every productivity application is more powerful when it's collaborative. but, currently, when we talk about `distribution`, it's represents **distribution in data center**, API is far away from their users from all over the world.
 
